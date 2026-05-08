@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raymondproguy.github.io/snippets-y5yyc3/sitemap.xml
